@@ -1,0 +1,160 @@
+{
+  "summary": {
+    "total_events": 28,
+    "gdelt_detected_before_who": 23,
+    "detection_rate": 0.8214285714285714,
+    "real_data_events": 28,
+    "real_data_detected": 23,
+    "detected_before_first_case": 23,
+    "median_lead_days": 173.0,
+    "mean_lead_days": 155.0,
+    "max_lead_days": 179.0,
+    "min_lead_days": 11.0
+  },
+  "by_disease": [
+    {
+      "disease": "anthrax",
+      "total": 1,
+      "detected": 1,
+      "median_lead": 174.0,
+      "mean_lead": 174.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "avian_influenza",
+      "total": 2,
+      "detected": 1,
+      "median_lead": 173.0,
+      "mean_lead": 173.0,
+      "detection_rate": 0.5
+    },
+    {
+      "disease": "cholera",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 167.0,
+      "mean_lead": 167.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "covid19",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 177.0,
+      "mean_lead": 177.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "dengue",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 173.5,
+      "mean_lead": 173.5,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "ebola",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 170.0,
+      "mean_lead": 170.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "influenza_pandemic",
+      "total": 1,
+      "detected": 0,
+      "median_lead": NaN,
+      "mean_lead": NaN,
+      "detection_rate": 0.0
+    },
+    {
+      "disease": "lassa",
+      "total": 1,
+      "detected": 1,
+      "median_lead": 153.0,
+      "mean_lead": 153.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "marburg",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 109.0,
+      "mean_lead": 109.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "measles",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 140.5,
+      "mean_lead": 140.5,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "mers",
+      "total": 2,
+      "detected": 0,
+      "median_lead": NaN,
+      "mean_lead": NaN,
+      "detection_rate": 0.0
+    },
+    {
+      "disease": "mpox",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 94.0,
+      "mean_lead": 94.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "nipah",
+      "total": 1,
+      "detected": 1,
+      "median_lead": 164.0,
+      "mean_lead": 164.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "plague",
+      "total": 1,
+      "detected": 1,
+      "median_lead": 143.0,
+      "mean_lead": 143.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "polio",
+      "total": 1,
+      "detected": 1,
+      "median_lead": 172.0,
+      "mean_lead": 172.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "rift_valley",
+      "total": 1,
+      "detected": 1,
+      "median_lead": 172.0,
+      "mean_lead": 172.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "yellow_fever",
+      "total": 2,
+      "detected": 2,
+      "median_lead": 176.0,
+      "mean_lead": 176.0,
+      "detection_rate": 1.0
+    },
+    {
+      "disease": "zika",
+      "total": 1,
+      "detected": 0,
+      "median_lead": NaN,
+      "mean_lead": NaN,
+      "detection_rate": 0.0
+    }
+  ]
+}

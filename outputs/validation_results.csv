@@ -1,0 +1,29 @@
+﻿disease,event,true_onset,who_report_date,gdelt_first_alert,lead_days_vs_who,lead_days_vs_first_case,detected,data_source
+covid19,COVID-19 Wuhan,2019-12-08,2020-01-05,2019-07-10,179.0,151.0,True,REAL
+covid19,COVID-19 Italy,2020-02-10,2020-02-21,2019-08-30,175.0,164.0,True,REAL
+ebola,Ebola DRC North Kivu,2018-07-20,2018-08-01,2018-02-03,179.0,167.0,True,REAL
+ebola,Ebola Uganda Sudan,2022-09-05,2022-09-20,2022-04-12,161.0,146.0,True,REAL
+marburg,Marburg Equatorial Guinea,2023-01-20,2023-02-13,2022-08-22,175.0,151.0,True,REAL
+marburg,Marburg Rwanda,2024-09-15,2024-09-27,2024-08-15,43.0,31.0,True,REAL
+mpox,Mpox UK 2022,2022-04-25,2022-05-07,2022-04-26,11.0,-1.0,True,REAL
+mpox,Mpox DRC 2024,2023-11-01,2024-08-14,2024-02-19,177.0,-110.0,True,REAL
+cholera,Cholera Haiti,2022-09-15,2022-10-02,2022-04-07,178.0,161.0,True,REAL
+cholera,Cholera Malawi,2022-12-01,2023-02-01,2022-08-29,156.0,94.0,True,REAL
+dengue,Dengue Brazil 2024,2023-11-15,2024-02-07,2023-08-19,172.0,88.0,True,REAL
+dengue,Dengue Bangladesh 2023,2023-06-01,2023-08-11,2023-02-17,175.0,104.0,True,REAL
+zika,Zika Brazil 2015,2015-08-01,2015-11-11,NOT DETECTED,,,False,REAL
+measles,Measles Philippines 2019,2018-12-15,2019-02-07,2018-08-16,175.0,121.0,True,REAL
+measles,Measles Samoa 2019,2019-09-01,2019-11-15,2019-08-01,106.0,31.0,True,REAL
+yellow_fever,Yellow Fever Nigeria,2017-10-01,2017-12-12,2017-06-20,175.0,103.0,True,REAL
+yellow_fever,Yellow Fever Angola,2015-12-15,2016-02-01,2015-08-08,177.0,129.0,True,REAL
+plague,Plague Madagascar,2017-08-10,2017-10-01,2017-05-11,143.0,91.0,True,REAL
+mers,MERS South Korea,2015-05-08,2015-05-20,NOT DETECTED,,,False,REAL
+mers,MERS Saudi Arabia,2014-03-15,2014-04-20,NOT DETECTED,,,False,REAL
+nipah,Nipah Kerala,2018-05-01,2018-05-20,2017-12-07,164.0,145.0,True,REAL
+anthrax,Anthrax Zambia,2023-11-01,2023-12-01,2023-06-10,174.0,144.0,True,REAL
+lassa,Lassa Nigeria 2024,2024-01-01,2024-02-01,2023-09-01,153.0,122.0,True,REAL
+polio,Polio Pakistan,2019-03-01,2019-06-01,2018-12-11,172.0,80.0,True,REAL
+avian_influenza,H7N9 China,2013-03-01,2013-03-31,NOT DETECTED,,,False,REAL
+avian_influenza,H5N1 US Dairy,2024-03-20,2024-04-01,2023-10-11,173.0,161.0,True,REAL
+influenza_pandemic,H1N1 Swine Flu,2009-03-18,2009-04-24,NOT DETECTED,,,False,REAL
+rift_valley,Rift Valley Uganda,2018-05-15,2018-06-01,2017-12-11,172.0,155.0,True,REAL
